@@ -26,6 +26,10 @@ header{
     margin: 0;
     background-color: #c01212;
     z-index: 20;
+    border-bottom-right-radius: 70%;
+    border-bottom-left-radius: 70%;
+    box-shadow: 0 0 20px #c01212;
+    padding-bottom: 20px;
 }
 .logo{
     display: flex;
